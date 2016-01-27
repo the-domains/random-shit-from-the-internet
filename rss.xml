@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Random Shit From The Internet]]></title>
+        <description><![CDATA[Random Shit From The Internet]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 27 Jan 2016 16:34:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bell Labs]]></title>
+            <description><![CDATA[<article><h1>Bell Labs</h1><p>A new standard for DSL, G.fast, can reach speeds of up to a gigabit of data a second, though its performance drops rapidly once the copper wires extend for more than 100 meters. That's enough to get service from a very nearby service closet, but not much beyond that.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/70bb0fcd3679c598c3aa82781215375a77150b5b.png"></article>]]></description>
+            <link>http://arstechnica.com/information-technology/2015/04/bell-labs-shows-off-10-gigabit-dsl/</link>
+            <guid isPermaLink="false">7e2aa37c-3b53-4091-a397-9906a0d324b6</guid>
+            <pubDate>Wed, 27 Jan 2016 16:34:32 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
